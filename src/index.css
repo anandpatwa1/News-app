@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.newSlider{
+  overflow: hidden;
+  height: 300px;
+}
+.tranding{
+height: 300px;
+}
+.tranding .box{
+  width: 200px; 
+}
